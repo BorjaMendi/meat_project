@@ -19,6 +19,8 @@ En este proyecto usaremos conjuntos de datos relacionados y consultados en **MyS
 - `meat_consumption_cleaned.csv`: Consumo per cápita (kg/año) de varios tipos de carne por país y año. (kaggle - https://www.kaggle.com/datasets/scibearia/meat-consumption-per-capita)
 - `countries.csv`: Lista de países.
 
+- `presentacion_prezi`: - https://prezi.com/p/edit/jje1tf3phql5/
+
 ---
 
 ## Objetivos del proyecto
